@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @Makiix
-- 👀 I’m interested in finding jobs and improve my skills
-- 🌱 I’m currently learning - HTML | CSS | Js | API's
-- 💞️ I’m looking to collaborate on any Front-End projects
-- 📫 How to reach me nogueirafaela.98@gmail.com
-
-<!---
-Makiix/Makiix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Rafaela</h1>
 <h3 align="center">A passionate front-end developer from Brasil</h3>
 
@@ -33,8 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/www.buymeacoffee.com/makiix"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="www.buymeacoffee.com/makiix" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makiix&show_icons=true&locale=en&layout=compact" alt="makiix" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makiix&show_icons=true&locale=en" alt="makiix" /></p>
 
