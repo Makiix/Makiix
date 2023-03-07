@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently finishing my studies at **Faculdade Católica Paulista**
 
-- 🌱 I’m currently learning **JavaScript | PHP**
+- 🌱 I’m currently learning **JavaScript | PHP | Ruby**
 
 - 📫 How to reach me **nogueirafaela.98@gmail.com**
 
