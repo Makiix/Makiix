@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makiix&label=Profile%20views&color=0e75b6&style=flat" alt="makiix" /> </p>
 
-- 🔭 I’m currently finishing my studies at **Faculdade Católica Paulista**
+- 🔭 I have a degree in systems analysis and development from **Catholic College of São Paulo**
 
-- 🌱 I’m currently learning **JavaScript | PHP**
+- 🌱 I’m currently learning **JavaScript | PHP | MySQL**
 
 - 📫 How to reach me **nogueirafaela.98@gmail.com**
 
